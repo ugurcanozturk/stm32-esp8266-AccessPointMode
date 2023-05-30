@@ -7,4 +7,4 @@ In the project, two separate esp8266 devices, programmed with stm32, are used fo
 
 The main objective of the project is to trigger an alarm for the parent in a different location when a baby cries, using a sound detection module. For this purpose, communication between two microcontrollers is established using esp8266.
 
-YOU SHOULD REFER TO THE OTHER REPOSİTORY(https://github.com/ugurcanozturk/stm32-esp8266-clientMode/blob/main/README.md#stm32-esp8266-clientmode) FOR THE CLİENT MODE!!!
+YOU SHOULD REFER TO THE OTHER REPOSİTORY(https://github.com/ugurcanozturk/stm32-esp8266-clientMode) FOR THE CLİENT MODE!!!
